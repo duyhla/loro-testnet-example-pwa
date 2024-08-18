@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "@iam-app-publisher-8/pwa-test-12",
-  "version": "0.1.26",
-  "repository": "https://github.com/duyhla/loro-testnet-example-pwa",
+  "name": "@mekonglabs",
+  "version": "0.0.1",
+  "repository": "https://github.com/duyhla/mekonglabs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
